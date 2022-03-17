@@ -1,5 +1,189 @@
 [
     {
+        "id": 1,
+        "title": "3D Kanojo: Real Girl",
+        "description": "Hikari Tsutsui, un estudiante que se conforma con las chicas virtuales que encuentra en los animes y los videojuegos. No tiene muchos amigos y vive en su propio mundo. Pero un día, le obligan a limpiar la piscina junto a Iroha, una “chica real” muy linda y popular entre los chicos de su clase.",
+        "capCount": "24",
+        "seasons": "2",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "32",
+                "name": "SHOUJO"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "86 - Eighty Six",
+        "description": "La historia se sitúa en un entorno bélico el cual es protagonizado por una feroz batalla entre dos bandos, el imperio y la república. Ambos bandos cuentan con lideres altamente capacitados los cuales tendrán que idear el mejor de los planes para derrotar a su enemigo.",
+        "capCount": "22",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": true,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "22",
+                "name": "MILITAR"
+            },
+            {
+                "id": "21",
+                "name": "MECHA"
+            },
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Absolute Duo",
+        "description": "Después de haber perdido un ser querido, Tooru Kokonoe se enlista en la Academia Kouryou para ganar un “Blaze”, un arma que es la manifestación de su alma, y poder vengarse. Él esperaba un arma… pero obtuvo un escudo. ¡¿Cómo se supone que busque venganza con algo que ni siquiera es un arma?!",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "15",
+                "name": "HAREM"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Aiura",
+        "description": "La historia se centra alrededor de Amaya, Iwasawa y Uehara ?Tres molestosas chicas de preparatoria sin espíritu ni motivación? y sus compañeros de clases.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Akebi-chan no Sailor-fuku",
+        "description": "Komichi Akebi está en su primer año de preparatoria y hay una sola cosa que le ha robado el corazón: el uniforme de marinerito de la Academia Privada Robai. Según se acerca esta nueva fase de su vida, sueña con todas las nuevas y emocionantes experiencias que podrá vivir: almuerzos en clase, las propias clases, actividades del club, y por supuesto, ¡hacer amistades! Ahora que se ha puesto su ropa favorita, Komichi se siente preparada para cualquier cosa.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": true,
+        "tags": [
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Akiba's Trip The Animation",
+        "description": "Akihabara: el barrio abierto de mente donde todo el mundo es bienvenido. Incluso si te sientes solo, aquí encontrarás a alguien que pueda comprenderte, pues es un lugar donde todo es posible, donde puedes desnudar tu alma. Pero la popular Akiba también será escenario del ataque de los Bagurimono y en pleno caos un chico conocerá a cierta chica.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Akuma no Riddle",
+        "description": "La historia se desarrolla en la Academia My?j?, un internado privado solo para chicas. Todo seria normal en dicha institución, de no ser porque todas los estudiantes de la clase de 10° grado, son en realidad sicarios encubiertos, que tienen como meta tomar la vida de Ichinose Hare. Tokaku Azuma es una estudiante recién transferida, quien también es una asesina con el objetivo de encargarse de Hare, pero poco a poco comienza a tener sentimientos por “presa”.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            }
+        ]
+    },
+    {
         "id": 8,
         "title": "Alice to Zouroku",
         "description": "La historia da comienzo con un grupo de jóvenes que poseen un poder conocido como “Alice’s Dream” que les permite hacer realidad las cosas que imaginan y que corresponden a sus poderes. Estas chicas son encerradas y tratadas como cobayas, pero Sana, una de estas chicas cuyo poder específico es ignorar las habilidades de la física y poder manifestar cualquier cosa, se escapa. Es entonces cuando Sana conoce a un hombre llamado Zouroku al que le gustan bien poco los cambios en su vida diaria.",
@@ -29,6 +213,894 @@
         "description": "Es una adaptación de un videojuego, en la cual el protagonista, un estudiante de segundo año llamado Junichi Tachibana, que fue dejado plantado (su cita no apareció) en nochebuena, un hecho que le afecto mucho. La historia se basa en varios arcos argumentales que, en cada uno de ellos, Junichi se enamora de una chica diferente y hace lo imposible para conseguirla, mostrando como quedan al final. Los arcos argumentales están enfocados en la misma época así pues, son como realidades paralelas donde Junichi recupera con una chica el amor y supera el trauma de haber sido rechazado.",
         "capCount": "49",
         "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Amagi Brilliant Park",
+        "description": "La historia se centra en el estudiante de preparatoria Seiya Kanie, un auto-proclamada genio con atractivo, intelecto, y habilidades atléticas. Un domingo, una misteriosa estudiante transferida que lleva un mosquete lo lleva a una cita en un antiguo y abandonado parque de atracciones, Amagi Brilliant Park. Él se entera de que si el parque no puede atraer a 100.000 visitantes en las próximas dos semanas, será cerrado inmediatamente. ¡Y así la comedia de negocios, Amagi Briiliant Park, da inicio!",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "UATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "20",
+                "name": "MAGIA"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Angelic Layer",
+        "description": "La historia se centra en Misaki Suzuhara que, al llegar a Tokio, donde va a vivir de ahora en adelante, aprende lo que son ángeles, muñecas de pequeño tamaño, comprables en las tiendas, y cuyo juego de lucha es de los más populares allí. Con la ayuda del misterioso Itchan, Misaki se inicia en el mundo de las luchas de ángeles, haciendo amistades y descubrimientos en el terreno de batalla que lograrán que lo vea como algo más que un simple juego.",
+        "capCount": "26",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "9",
+                "name": "DEPORTES"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Angolmois: Genkou Kassenki",
+        "description": "Kuchii Jinzaburou es un samurái que, junto a otro guerreros, tratará de defender Japón impidiendo la primera invasión del Imperio Mongol en 1274.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "16",
+                "name": "HISTORICO"
+            },
+            {
+                "id": "22",
+                "name": "MILITAR"
+            },
+            {
+                "id": "30",
+                "name": "SAMURAI"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Anitore! EX",
+        "description": "El anime para quemar grasa está de vuelta, y ¡con más ganas que nunca! ¿Tienes algunos músculos que no has estado usando recientemente? ¿Por qué no unirse a este anime y disfrutar del ejercicio con los personajes? Hay todo tipo de entrenamiento en una escala ¡aún más grande que en la primera temporada! Un nuevo personaje, Sakura Izumi, ¡también hará una aparición! Cinco niñas con el objetivo de ser ídolos y un personaje lindo ejercerán junto contigo, y reducirán esa molesta grasa corporal aún más que la primera temporada ... ¡¿10,000%?!",
+        "capCount": "24",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "9",
+                "name": "DEPORTES"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai",
+        "description": "Una vez, había un grupo de amigos de la niñez. Sin embargo, una vez que entraron en el instituto, ellos se distanciaron el uno del otro. Estos son: Jintan - el hikikomori. Anaru - Ella solo quiere andar con sus novias. Yukiatsu y Tsuruko - Estos dos son apropiados estudiantes yendo a la escuela. Bobo - Más que entrar al instituto, él había optado para hacer algunos viajes. Anma - el que que cambia constantemente de grupo. Un día, Anma encuentra Jintan y le pide realizar su deseo. Para esto, los compañeros largo tiempo separados se juntan una vez más.",
+        "capCount": "11",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Ano Natsu de Matteru",
+        "description": "El anime será una comedia romántica de adolescentes protagonizada por las chicas Ichika Takatsuki y Remon Yamano, y por un chico llamado Kaito Kirishima.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Another",
+        "description": "La historia se centra en una clase maldita y en los hilos del destino que llevan a todos los alumnos y alumnas de la misma hasta a la muerte. Hacía 26 años iba a esa clase una chica llamada Misaki. Buena deportista, popular, caía bien a todo el mundo, las mejores notas? pero un día murió dejando un vacío enorme en sus compañeros de clases. Estos, decididos a no olvidarla, siguieron actuando como si Misaki siguiera viva hasta la graduación. Años después, en primavera de 1998, un chico llamado Koichi Sakakibara es transferido a esa clase para no tardar en darse cuenta de que hay algo raro ahí, especialmente con esa tal Misaki que siempre ve al fondo de clase dibujando sola y que lleva un parche.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "23",
+                "name": "MISTERIO"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            },
+            {
+                "id": "36",
+                "name": "SUSPENSO"
+            },
+            {
+                "id": "37",
+                "name": "TERROR"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Ao Haru Ride",
+        "description": "Ao Haru Ride gira en torno a Futaba, una chica que en secundaria estaba enamorada de un chico llamado Ko Tanaka. Sin embargo, tras un malentendido, su relación como amigos finaliza cuando él cambia de escuela durante las vacaciones de verano. En el instituto, el mundo de Futaba se pone del revés al coincidir nuevamente con Ko, que ahora se llama Ko Mabuchi.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "32",
+                "name": "SHOUJO"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Araburu Kisetsu no Otome-domo yo",
+        "description": "La serie nos presenta a las chicas de un club de literatura de preparatoria donde para intentar romper un poco el hielo entre ellas, una hace una sencilla pregunta: ¿Qué quieren hacer sea como sea antes de morir?. Una de las chicas es muy clara con la respuesta: Sexo. Eso dará inicio a una serie de emociones entre las chicas, cada una con su personalidad y su propio entorno, en un viaje hacia la madurez repleto de situaciones dolorosas, divertidas y torpes.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Arifureta Shokugyou de Sekai Saikyou",
+        "description": "Hajime Nagumo es un otaku promedio de diecisiete años. Sin embargo, su vida cambia totalmente cuando él y el resto de su clase, son convocado a un mundo de fantasía. Son tratados como héroes y tienen la tarea de salvar a la raza humana de la extinción total. Pero lo que debería haber sido el sueño húmedo de cualquier otaku rápidamente se convierte en una pesadilla. Mientras que el resto de su clase es bendecido con poderes divinos, Hajime es un Synergist, que solo tiene una sola habilidad de transmutación. Ridiculizado y acosado por sus compañeros de clase por ser débil, pronto se encuentra en la desesperación. ¿Será capaz de sobrevivir en este peligroso mundo de monstruos y demonios?",
+        "capCount": "23",
+        "seasons": "2",
+        "state": "WATCHING",
+        "favorite": true,
+        "onAir": true,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "14",
+                "name": "FANTASIA"
+            },
+            {
+                "id": "15",
+                "name": "HAREM"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Arslan Senki",
+        "description": "En el próspero reino de Pars está la Capital Real de Ecbatana, una ciudad espléndida y maravillosa, reinada por el no derrotado y temido Rey Andragoras. Arslan es el joven y curioso príncipe de Pars quien, pese a sus mayores esfuerzos, no parece tener lo que se necesita para ser un rey adecuado como su padre. A los 14 años, Arslan va a su primera batalla y pierde todo mientras la niebla empapada de sangre da origen a llamas sin fin, llevándolo a enfrentar el fallecimiento de su alguna vez glorioso reino. Sin embargo, es el destino de Arslan ser un rey, y pese a las pruebas que enfrente, debe embarcarse en un viaje para reclamar su reino caído.",
+        "capCount": "33",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "14",
+                "name": "FANTASIA"
+            },
+            {
+                "id": "16",
+                "name": "HISTORICO"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Asobi Asobase",
+        "description": "Esta comedia gira en torno a tres compañeras de clase que juegan juegos de manos simples. Una de las chicas es buena en los juegos, pero detesta que siempre perdió contra su hermana mayor y por ello se vio obligada a hacer las tareas domésticas mientras crecía. Otra niña es de ascendencia estadounidense, pero criada en Japón, y que solo finge ser mala con el japonés. Otra chica suele observar a las dos primeras jugar y pierde siempre contra ellas.",
+        "capCount": "14",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Asobi ni Iku yo!",
+        "description": "La historia se centra en Kakazu Kio, un estudiante de primer año de vida de la escuela de alto en Okinawa. Durante una ceremonia en memoria de uno de los antepasados de su familia. Una misteriosa chica con orejas de gato se le aparece a sí misma presentandose como Eris y afirma que ella es una extranjera. Sin embargo ella será más preocupante de lo que se da cuenta por primera vez.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            },
+            {
+                "id": "15",
+                "name": "HAREM"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "B Gata H Kei",
+        "description": "Al ingresar al instituto todos tenemos metas, algunos referentes a su futura profesión, otros con su familia...en fin, hay varias cosas pero nuestra protagonista, Yamada, es algo peculiar. Es una chica hermosa admirada por todos aunque... su extravagante meta es el mantener 100 relaciones sexuales. Un largo camino considerando que es virgen y que el chico que ella escogió como su primera pareja, es tan tímido que termina por asustarlo cada vez que se le insinúa.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "31",
+                "name": "SEINEN"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Back Arrow",
+        "description": "Lingalind es un lugar rodeado por un muro que protege y ayuda a dar prosperidad a esas tierras. El muro es la base sobre la que prospera Lingalind, casi como su dios. Un día aparece un misterioso hombre llamado Back Arrow en Edger, un pueblo en la zona más exterior de Lingalind. Arrow ha perdido sus recuerdos, pero hay algo que sí sabe: procede del exterior del muro. Para recuperar sus recuerdos, Arrow se aventura por los interiores del muro, pero tendrá que enfrentarse a sí mismo.",
+        "capCount": "24",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "14",
+                "name": "FANTASIA"
+            },
+            {
+                "id": "21",
+                "name": "MECHA"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Baka to Test to Shoukanjuu",
+        "description": "La historia se centra en torno a un chico llamado Akihisa Yoshii, también conocido como el tonto. Él asiste a la Academia Fumizuki , una escuela donde el personal divide rígidamente a los estudiantes según los resultados de sus pruebas. En este caso, la clase A se llena de estudiantes con las más altas calificaciones, por lo que su clase está llena de lujos, mientras que el estado de la clase F es el contrario, dejando mucho que desear. Esta academia tiene algo especial, donde todos los estudiantes (con permiso de los profesores) logran invocar seres (Sh?kanj?). Estos seres, cuyos puntos de fuerza son medidos por las calificaciones ?que sus convocadores obtuvieron en sus exámenes? se utilizan para las batallas entre las clases. La clase A está llena de seres fuertes, mientras que la clase F tiene bestias drásticamente débiles en comparación. En el día de la prueba de nivel, una chica inteligente llamada Mizuki Himeji sufre de una fiebre y no puede completar su prueba. Como resultado, ella es enviada a la Clase F, junto con Akihisa Yoshii. Akihisa, que se preocupa por su salud, declara un EIB (Examen de Invocacion en Batalla) a la clase A para obtener más privilegios para su clase. Además de Mizuki (que pasa a ser el segundo lugar de estudiantes en todo el año), también asisten a la clase F el mejor amigo de Yoshii, Y?ji Sakamoto, el bish?nen Kinoshita Hideyoshi, el pervertido Kouta Tsuchiya, y la chica marimacha Minami Shimada (quien Akihisa reivindica como su peor enemigo ).",
+        "capCount": "26",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "35",
+                "name": "SUPERPODERES"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima",
+        "description": "En un mundo de fantasía en el que una chica con la Protección Divina del héroe combate contra el Señor Demonio. En ese mundo, Red, el hermano mayor de esa chica, quien posee la Protección Divina del “Guía”, que solo le otorga un nivel inicial mayor que sus compañeros, acompañó al héroe en su grupo inicial. No obstante, puesto que esa Protección Divina solo le otorga un alto nivel pero no magia ni artes marciales, gradualmente no pudo equipararse al poder de sus compañeros, y al final, un compañero hechicero señaló, “tú no eres un verdadero miembro del equipo”, al mismo tiempo que lo corría de allí con todas sus cosas. Con su corazón completamente roto, Red se distanció de la batalla contra el ejército del Rey Demonio, a pesar de saber que el destino del mundo dependía de ello, y ahora apuntó a vivir una vida tranquila en la frontera, y ganar dinero abriendo una tienda de herbolaria utilizando el conocimiento adquirido durante sus viajes.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "14",
+                "name": "FANTASIA"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Basilisk",
+        "description": "La historia se traslada a dos pequeñas aldeas japonesas en la era Keichou, exactamente en el año 1614 A.D. y narra la rivalidad de los clanes enfrentados durante mas de 400 años por el odio entre las familias. Los actuales representantes, Kouga Danjo de Kouga y Ogen de Iga no consiguieron fraguar su amor y resolver definitivamente esta rivalidad por lo que intentan conseguir que sus sucesores Gennosuke y Oboro cumplan su amor y puedan acabar con este enfrentamiento sin sentido; pero donde hay amor habrá muerte y sus planes se ven estropeados cuando Ieyasu, el actual Shogun, decide rivalizar a Kouga e Iga para ver quien de sus dos nietos será el próximo Shogun. En caso de que Kouga gane Kunichiyo sería el próximo Shogun y Kouga podrá vengar su rivalidad con Iga y ser protegida durante los próximos mil años, pero si Iga acaba con Kouga Takechiyo será el próximo Shogun. Dos pergaminos inscritos con los 10 mejores guerreros ninja de cada aldea son enviados a sus respectivas aldeas con el fin de comenzar el terrible duelo que una vez mas estropeará el destino de los sucesores de las dos aldeas e impedirá que su amor surja...",
+        "capCount": "48",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "14",
+                "name": "FANTASIA"
+            },
+            {
+                "id": "16",
+                "name": "HISTORICO"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "30",
+                "name": "SAMURAI"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Beatless",
+        "description": "Nos presenta una IA ultra avanzada que supera a la inteligencia humana, lo que lleva a la creación de seres artificiales que ni siquiera sabemos bien cómo funcionan. Lacia es una hIE, un ser artificial en forma de preciosa chica con la que se encuentra Arato Endo, un joven de 17 años.",
+        "capCount": "24",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Ben-To",
+        "description": "La historia se centra en un chico de instituto más pobre que las ratas llamado You Satou, aficionado a los videojuegos. Un día encuentra en un supermercado un bento (una de esas cajitas con comida preparada) a mitad de precio. En el momento en el que se acerca a cogerlo, se desmaya y cae inconsciente al suelo, y al recobrar la conciencia se topará con que todas las cajas ya se han vendido. El dinero apremia y Satou acaba de meterse en una fiera batalla en la que no hay límites, ya que no es el único que quiere llevarse el bento a mitad de precio.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "2",
+                "name": "ARTES MARCIALES"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Binbougami ga!",
+        "description": "Sakura Ichiko es una joven de 16 años de edad, quien lleva una vida de ensueño y ha sido bendecido con belleza, inteligencia, y salud. Ella posee una gran cantidad de Energía de la Felicidad, que puede hacer feliz a la gente, pero a costa de la Energia de la Felicidad de su entorno. Sakura ha hecho que el balance de energía del mundo se desequilibre, y debido a esto, se convierte en el blanco de un Dios llamado Momiji. El objetivo de este Dios es eliminar el poder de Sakura, y reestablecer el balance de la energia.",
+        "capCount": "13",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "25",
+                "name": "PARODIA"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Black Lagoon",
+        "description": "La serie narra las aventuras de una compañía de transportes, no muy favorecida a ojos de la ley, establecida en la ciudad ficticia de Ruananpur, en Tailandia. Se centra en el conflicto interno de Okajima Rokuro (Rock). Éste es un ejecutivo de una empresa japonesa que es secuestrado por la organización Black Lagoon, y que decide pasarse a sus filas después de ver la humillación de sus jefes y el sistema al cual pertenece. Cerca de él se encuentra Rebeca Revy que es una joven china-americana muy buena con el manejo de armas pero bastante intolerante; ella protegerá a Rock a pesar de todo los sucesos que se presentan. Los acompañan Dutch, el jefe de Black Lagoon, y Benny, un experto en informática y sistemas de comunicación.",
+        "capCount": "24",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "31",
+                "name": "SEINEN"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Bleach",
+        "description": "Kurosaki Ichigo es un estudiante de instituto de 15 años, que tiene una peculiaridad: es capaz de ver, oír y hablar con fantasmas. Pero no sabe hasta dónde puede abarcar la clasificación de espíritus, ni lo que conlleva el saberlo. Un buen día, una extraña chica de pequeña estatura que viste ropas negras de samurai entra en su cuarto. Se llama Rukia Kuchiki, y es una Shinigami (Dios de la Muerte). Ante la incredulidad de Ichigo, le explica que su trabajo es mandar a las almas buenas o plus a un lugar llamado la Sociedad de Almas, y eliminar a las almas malignas o hollows. Luego junto a Inoue Orihime, Ishida Ury y Sado Yasutora se veran envueltos en diferentes batallas, las cuales iran desarrollando sus diferentes habilidades que le otorgaran a cada uno su importancia en la serie.",
+        "capCount": "366",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            },
+            {
+                "id": "35",
+                "name": "SUPERPODERES"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Blend S",
+        "description": "La historia de Blend S gira en torno a una joven llamada Maika, quien encuentra un trabajo en una cafetería donde todas las camareras reciben un papel -como “tsundere” o “imouto”- para interpretar durante sus servicios. El gerente le otorga a Maika el papel de “Do S” (sádica extrema), por lo que tendrá que adoptar un papel dominante y agresivo.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Blue Reflection Ray",
+        "description": "Dando sus primeros pasos de regreso a la vida escolar diaria, Hinako se pierde en un mar de rostros desconocidos hasta que se encuentra con una amiga de la escuela secundaria, Sanae Nishida. Hinako nota que un aura extraña emerge de Sanae y de repente se despierta en un mundo misterioso donde un demonio intimidante la espera. Antes de que tenga tiempo de reaccionar, un par de voces amistosas se acercan a ella: «Todo estará bien. Puedes pelear. ¡Pon tu corazón en el anillo de tu dedo y lucha como un Reflector!». Las gemelas mágicas Yuzu y Lime otorgan poderes de Reflector a Hinako, prometiéndole que le concederán cualquier deseo que desee si protege al mundo de las fuerzas devastadoras que buscan amenazar a la humanidad. Así es como Hinako se entera de la misteriosa dimensión paralela, The Common: un lugar creado por la inconsciencia del colectivo humano; donde acechan las causas de los problemas latentes de los humanos. Junto a Yuzu y Lime, salta sin miedo a este mundo desconocido en busca de fragmentos de emoción cristalizados, la manifestación física de las luchas de sus compañeros de clase, pero encuentra una miríada de desafíos en su camino. Los jugadores explorarán ubicaciones únicas y peligrosas en su intento de localizar estos fragmentos y resolver los problemas de sus compañeros de clase en el mundo real, ¡y serán llamados a luchar contra peligrosos demonios que se interpongan en su camino!",
+        "capCount": "24",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "20",
+                "name": "MAGIA"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Blue Seed",
+        "description": "Durante millares de años las fuerzas de los Aragami han sido contenidas mediante una constante dieta de sacrificios humanos, pero ahora los lazos se han roto y los más viejos y más mortales enemigos de la humanidad están regresando. Para combatir a un enemigo que puede atacar dondequiera, siempre, sin aviso se requerirá a los agentes más talentosos de todo el mundo y de cada recurso disponible de la civilización moderna.",
+        "capCount": "29",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "5",
+                "name": "CIENCIA FICCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "8",
+                "name": "DEMONIOS"
+            },
+            {
+                "id": "10",
+                "name": "DRAMA"
+            },
+            {
+                "id": "11",
+                "name": "ECCHI"
+            },
+            {
+                "id": "23",
+                "name": "MISTERIO"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "37",
+                "name": "TERROR"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Kishuku Gakkou no Juliet",
+        "description": "La historia sigue a dos estudiantes de dos naciones que asisten al internado de la Academia Dahlia, así como a un amor prohibido que florece entre ellos. En la Nación Tōwa se encuentra Romio Inuzuka y en el dormitorio del Principado del Oeste se encuentra su eterna enemiga, Juliet Percia. Todo comienza con la confesión en la que Romio pone en juego su vida.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Boku dake ga Inai Machi",
+        "description": "Boku dake ga Inai Machi es una serie de ciencia ficción que cuenta la historia de Satory Fujinuma, un autor de manga sin mucho éxito que sufre de un peculiar fenómeno conocido como Resucitación en el cual se transporta a la fuerza atrás en el tiempo hasta el momento anterior de que ocurra algo que supone un peligro para una vida. Satoru no tarda en descubrir que el fenómeno persiste hasta que la causa de la amenaza desaparece.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "23",
+                "name": "MISTERIO"
+            },
+            {
+                "id": "27",
+                "name": "PSICOLOGICO"
+            },
+            {
+                "id": "31",
+                "name": "SEINEN"
+            },
+            {
+                "id": "34",
+                "name": "SOBRENATURAL"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Boku no Hero Academia",
+        "description": "Las personas no nacen igual. El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país: Yueiko. Con la ayuda de su ídolo, All-Might, ¿podrá convertirse en un verdadero héroe?",
+        "capCount": "113",
+        "seasons": "5",
+        "state": "WATCHED",
+        "favorite": true,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "1",
+                "name": "ACCION"
+            },
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "33",
+                "name": "SHOUNEN"
+            },
+            {
+                "id": "35",
+                "name": "SUPERPODERES"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+        "description": "Sin nada que perder, el estudiante corrientón Haruka Shinozaki se confiesa a la preciosa y diligente delegada de la clase, Akiho Kosaka. Para su sorpresa, la chica acepta. Kosaka se toma las citas de forma tan seria como se lo toma casi todo, pero parece que no termina de pillar del todo de qué va eso de salir con un chico. Al final, Kosaka termina sugiriendo actividades que quizás sean demasiado sexuales.",
+        "capCount": "11",
+        "seasons": "1",
+        "state": "WATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Bokura wa Minna Kawaisou",
+        "description": "Esta comedia adolescente sigue los pasos de Usa Kazunari, un chico solitario que pasa a vivir solo debido a la ausencia de sus padres por motivos laborales. Este decide mudarse a su nueva casa, alojada en el nuevo complejo de apartamentos Kawai, donde compartirá una habitación con un compañero de cuarto algo pervertido obsesionado por las chicas menores de edad y con Ritsu Kawai, un amor a primera vista.",
+        "capCount": "12",
+        "seasons": "1",
         "state": "UNWATCHED",
         "favorite": false,
         "onAir": false,

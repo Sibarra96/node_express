@@ -1,6 +1,7 @@
 const express = require('express');
 const { MongoClient, ObjectID } = require('mongodb');
 const speakerService = require('../services/speakerService');
+const animesRepo = require('../config/db/animes');
 
 const sessionRouter = express.Router();
 sessionRouter.use((req, res, next) => {
