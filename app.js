@@ -10,6 +10,7 @@ const app = express();
 const sessionRouter = require('./src/routers/sessionRouter');
 const adminRouter = require('./src/routers/adminRouter');
 const authRouter = require('./src/routers/authRouter');
+const animeRouter = require('./src/routers/animeRouter');
 
 app.use(morgan('tiny'));
 app.use(express.static(path.join(__dirname, '/public')));
@@ -28,6 +29,7 @@ app.set('view engine', 'ejs');
 app.use('/sessions', sessionRouter);
 app.use('/admin', adminRouter);
 app.use('/auth', authRouter);
+app.use('/animes', animeRouter);
 
 app.get('/', (req, res) => {
     res.render('index', { title: 'Welcome to Globomantics', data: ['a', 'b', 'c'] });

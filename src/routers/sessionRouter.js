@@ -1,8 +1,15 @@
 const express = require('express');
 const { MongoClient, ObjectID } = require('mongodb');
-// const sessions = require('../data/sessions.json');
+const speakerService = require('../services/speakerService');
 
 const sessionRouter = express.Router();
+sessionRouter.use((req, res, next) => {
+    if (req.user) {
+        next();
+    } else {
+        res.redirect('/auth/signIn');
+    }
+});
 
 sessionRouter.route('/').get((req, res) => {
     const url = 'mongodb+srv://Saibarra:jzG9ZYvmzanUw8EF@globomantics.fjejk.mongodb.net/${dbName}?retryWrites=false&w=majority';
@@ -39,7 +46,14 @@ sessionRouter.route('/:id').get((req, res) => {
 
             const db = client.db(dbName);
 
-            const sessions = await db.collection('sessions').findOne({ _id: new ObjectID(id) });
+            const sessions = await db
+                .collection('sessions')
+                .findOne({ _id: new ObjectID(id) });
+
+            const speaker = await speakerService.getSpeakerById(sessions.speakers[0].id);
+
+            sessions.speaker = speaker.data;
+
             res.render('session', { session: sessions });
         } catch (error) {
             console.log(error.stack);

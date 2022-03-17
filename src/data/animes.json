@@ -1,0 +1,54 @@
+[
+    {
+        "id": 8,
+        "title": "Alice to Zouroku",
+        "description": "La historia da comienzo con un grupo de jóvenes que poseen un poder conocido como “Alice’s Dream” que les permite hacer realidad las cosas que imaginan y que corresponden a sus poderes. Estas chicas son encerradas y tratadas como cobayas, pero Sana, una de estas chicas cuyo poder específico es ignorar las habilidades de la física y poder manifestar cualquier cosa, se escapa. Es entonces cuando Sana conoce a un hombre llamado Zouroku al que le gustan bien poco los cambios en su vida diaria.",
+        "capCount": "12",
+        "seasons": "1",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "3",
+                "name": "AVENTURAS"
+            },
+            {
+                "id": "23",
+                "name": "MISTERIO"
+            },
+            {
+                "id": "31",
+                "name": "SEINEN"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Amagami SS",
+        "description": "Es una adaptación de un videojuego, en la cual el protagonista, un estudiante de segundo año llamado Junichi Tachibana, que fue dejado plantado (su cita no apareció) en nochebuena, un hecho que le afecto mucho. La historia se basa en varios arcos argumentales que, en cada uno de ellos, Junichi se enamora de una chica diferente y hace lo imposible para conseguirla, mostrando como quedan al final. Los arcos argumentales están enfocados en la misma época así pues, son como realidades paralelas donde Junichi recupera con una chica el amor y supera el trauma de haber sido rechazado.",
+        "capCount": "49",
+        "seasons": "2",
+        "state": "UNWATCHED",
+        "favorite": false,
+        "onAir": false,
+        "tags": [
+            {
+                "id": "6",
+                "name": "COMEDIA"
+            },
+            {
+                "id": "12",
+                "name": "ESCOLARES"
+            },
+            {
+                "id": "28",
+                "name": "RECUENTOS DE LA VIDA"
+            },
+            {
+                "id": "29",
+                "name": "ROMANCE"
+            }
+        ]
+    }
+]
